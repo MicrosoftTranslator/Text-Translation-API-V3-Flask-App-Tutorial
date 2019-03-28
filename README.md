@@ -73,8 +73,7 @@ Let's create a virtual environment for our Flask app using `virtualenv`. Using a
 
 3. You can deactivate the session at any time by typing this into the command line or terminal: `deactivate`.
 
-> [!NOTE]
-> Python has extensive documentation for creating and managing virtual environments, see [virtualenv](https://virtualenv.pypa.io/en/latest/).
+**NOTE**: Python has extensive documentation for creating and managing virtual environments, see [virtualenv](https://virtualenv.pypa.io/en/latest/).
 
 ## Install `requests`
 
@@ -86,8 +85,7 @@ Requests is a popular module that is used to send HTTP 1.1 requests. There’s n
    pip install requests
    ```
 
-> [!NOTE]
-> If you'd like to learn more about requests, see [Requests: HTTP for Humans](http://docs.python-requests.org/en/master/).
+**NOTE**: If you'd like to learn more about requests, see [Requests: HTTP for Humans](http://docs.python-requests.org/en/master/).
 
 ## Install and configure `Flask`
 
